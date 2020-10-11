@@ -1,0 +1,23 @@
+#site{
+    width:1000px;
+    height: auto;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: cornflowerblue;
+}
+#cuerpo{
+    width:1000px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkturquoise;
+    
+}
+#contacto{ 
+    width: 1000px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightsteelblue;
+}
